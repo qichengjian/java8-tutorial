@@ -1,9 +1,7 @@
 package com.github.qichengjian.java8.samples.stream;
 
 import java.util.*;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Stream1 {
 
